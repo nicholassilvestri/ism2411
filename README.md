@@ -1,4 +1,4 @@
-#ISM2411-Python for Business
+# ISM2411-Python for Business
 **Name:** Nicholas Silvestri
 **Semester:** Fall 2026
 **Instructor:** Markum Reed
@@ -11,7 +11,7 @@ This repository contains my weekly lab submissions for ISM2411. Each folder corr
 -'week07/`-Functions: calculate_tax, apply_discount
 -`week08/`-Git: first GitHub submission
 
-#How to Run
+# How to Run
 
 Each script is standalone. Open a terminal and run:
 ```
@@ -21,9 +21,7 @@ python week07/functions.py
 1. Commit History:560d4e4 (HEAD -> main, origin/main, origin/HEAD) add README with module listing and run instructions
 9120aa9 add module 7 functions
 953bfa2 add .gitignore for Python and OS files
-:
-
-My commit history shows that I made organized changes to my repository. If I were hiring someone, I would see that they are orderly in their operations and have the ability to keep track of their work. 
+: My commit history shows that I made organized changes to my repository. If I were hiring someone, I would see that they are orderly in their operations and have the ability to keep track of their work. 
 
 2. Using Git: Using Git has taught me to save my work through commits regularly, even after making small changes. Commiting each small part of my written code can help me keep track of my overall progress, and can be useful if I make mistakes.
 
