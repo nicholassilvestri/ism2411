@@ -10,7 +10,8 @@ This repository contains my weekly lab submissions for ISM2411. Each folder corr
 
 -`week06/`-Loops: sales report with sum, average, max
 
--`week07/`-Functions: calculate_tax, apply_discount
+-`week07/`-Functions: calculate_tax,apply_discount
+
 -`week08/`-Git: first GitHub submission
 
 # How to Run
